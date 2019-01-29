@@ -1,4 +1,4 @@
-# Terraform demo on Openstack to launch an php application with Elasticsearch Cluster
+# Terraform demo on Openstack to launch a php application with Elasticsearch Cluster
 
 To use this terraform, create a file named credentials.tf.
 
