@@ -33,3 +33,8 @@ Then run
 > terraform apply
 
 The terraform will output the rebond public IP, the apache public IP to access the demo site, and the ElasticSearch  nodes private IP.
+
+
+Access the front instance and the ES instances from the rebond instance with root user
+
+> root@rebond# ssh -l centos private_ip_of_instance
